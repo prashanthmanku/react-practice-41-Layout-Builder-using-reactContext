@@ -1,0 +1,26 @@
+.layout-container {
+  background-color: #475569;
+  color: #f1f5f9;
+  padding: 20px;
+  max-width: 1410px;
+  margin: auto;
+}
+.layout-heading {
+  margin: 0px;
+  font-size: 23px;
+  font-weight: 500;
+}
+.checkbox-container {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+}
+.checkbox {
+  width: 15px;
+  height: 15px;
+}
+.label {
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 5px;
+}
